@@ -1,0 +1,88 @@
+option optimize_for = LITE_RUNTIME;
+
+
+message module_message
+{
+   required bytes data = 1;
+   required int32   module_index = 2;
+}
+
+message create_module
+{
+	required int32 type = 1;
+}
+
+message initialize_module
+{
+	required int32 module_index = 1;
+	optional bytes init_data = 2;
+}
+
+message module_creation_result
+{
+	required bool failure = 1;
+	optional int32 type = 2;
+	optional int32 index = 3;
+}
+
+message machine_information
+{
+	optional string username = 1;
+	optional string localip = 2;
+	optional string externalip = 3;
+}
+
+message screen_capture
+{
+	required int32 width = 1;
+	required int32 height = 2;
+	required bytes data = 3;
+}
+message screen_capture_startup
+{
+	required int32 ticks_between = 1;
+}
+
+message task_startup
+{
+	required int32 task_number = 1;
+}
+
+message task_sig_end
+{
+	required int32 task_end = 1;
+}
+
+
+message exit_process
+{
+}
+
+message kill_instance
+{
+}
+
+message server_notify_disconnect
+{
+}
+
+
+message file_transfer_segment
+{
+	required string name = 1;
+	required int32       file_size = 2;
+	required int32       pos = 3;
+	required bytes       data = 4;
+}
+
+message file_transfer_server_segment
+{
+	required file_transfer_segment file = 1;
+	required string                drop_path = 2;
+}
+
+message file_server_request
+{
+	required string path = 1;
+}
+

@@ -1,0 +1,46 @@
+﻿  PETools.cpp
+C:\Users\user\source\repos\PETools\PETools\PETools.h(393,107): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PETools.h(806,43): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PEBStructs.h(702,34): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\user\source\repos\PETools\PETools\PEBStructs.h(702,34): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(163): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(309,5): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(309): message : see reference to class template instantiation 'SysCall::_windows_syscall_t<T(__stdcall *)(A...)>' being compiled
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(309,5): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(309,5): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\WindowsSysCalls.h(309,5): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(130,35): warning C5033: 'register' is no longer a supported storage class
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(206,24): warning C4244: 'argument': conversion from 'wchar_t' to 'unsigned char', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(1022,50): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(1472,61): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(1652,1): warning C4005: 'RVA': macro redefinition
+C:\Users\user\source\repos\PETools\PETools\PEBStructs.h(687): message : see previous definition of 'RVA'
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2048,54): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2049,67): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2560,2): warning C4305: 'return': truncation from 'unsigned long' to 'bool'
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2565,2): warning C4305: 'return': truncation from 'unsigned long' to 'bool'
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2590,220): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2623,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2676,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2779,32): warning C4101: 'Info': unreferenced local variable
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2969,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2976,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(2857,22): warning C4101: 'uniName': unreferenced local variable
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3190,9): warning C4101: 'LastSectionEndAddress': unreferenced local variable
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3289,9): warning C4101: 'LastSectionEndAddress': unreferenced local variable
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3418,26): warning C4101: 'pDirectory': unreferenced local variable
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3499,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3550,45): warning C4133: '-': incompatible types - from 'PVOID' to 'const char *'
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3677,51): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3690,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3701,49): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3750,17): warning C4244: '=': conversion from 'DWORD' to 'USHORT', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(3880,1): warning C4005: 'FREE_AND_EXIT': macro redefinition
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(559): message : see previous definition of 'FREE_AND_EXIT'
+  miniz.c
+  Generating code
+  64 of 693 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DiaboliquePacker.vcxproj -> C:\Users\user\source\repos\Diabolique2\ReleaseDLL\stub.exe

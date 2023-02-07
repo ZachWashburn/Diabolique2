@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\user\\source\\repos\\diabolique2\\diabolique2\\diabolique2.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\user\\source\\repos\\diabolique2\\diabolique2\\resource.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

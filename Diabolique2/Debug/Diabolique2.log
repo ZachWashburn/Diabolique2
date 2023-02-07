@@ -1,0 +1,65 @@
+﻿  CPersistence.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(168): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(334,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(300,1): warning C4244: '+=': conversion from 'smallz4::Length' to 'size_t', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(395,31): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(407,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(415,29): warning C4244: 'argument': conversion from 'smallz4::Length' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(429,37): warning C4244: 'argument': conversion from 'smallz4::Length' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(460,12): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(463,15): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(599,35): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(626,34): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(634,39): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(639,21): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(640,21): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(684,58): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(736,17): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(739,45): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(742,33): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(747,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(760,90): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(780,35): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\PETools\PETools\PETools.h(393,107): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PETools.h(806,43): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\Diabolique2\Diabolique2\CPersistence.cpp(129,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\user\source\repos\Diabolique2\Diabolique2\CPersistence.cpp(67): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\user\source\repos\Diabolique2\Diabolique2\CPersistence.cpp(67): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Diabolique2.vcxproj -> C:\Users\user\source\repos\Diabolique2\Debug\Diabolique2.exe

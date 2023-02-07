@@ -1,0 +1,37 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'RELEASE_SERVER').
+  CWinSocksDataTransfer.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  Diabolique2.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\Diabolique2.cpp(38,35): warning C4129: '%': unrecognized character escape sequence
+C:\Users\user\source\repos\Diabolique2\Diabolique2\Diabolique2.cpp(43,33): warning C4129: '%': unrecognized character escape sequence
+  CDiabolqiueProcess.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  ProcessController.cpp
+  RebuiltWindowsAPI.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\RebuiltWindowsAPI.cpp(818,27): warning C4101: 'e': unreferenced local variable
+  WindowsImportHide.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  IDiabolique.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  IDiaboliqueConnection.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  IDiaboliqueIO.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  CDiaboliqueServer.cpp
+  CDiaboliqueServerClient.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\user\source\repos\Diabolique2\Diabolique2\IDiaboliqueIO.cpp(21): warning C4715: 'IDiaboliqueIO::InitializeModule': not all control paths return a value
+  All 1329 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Diabolique2.vcxproj -> C:\Users\user\source\repos\Diabolique2\RELEASE_SERVER\Diabolique2.exe

@@ -1,0 +1,11 @@
+option optimize_for = LITE_RUNTIME;
+
+
+message socket_passthrough_init
+{
+	required string ip = 1;
+	required string port = 2; 
+	required bool ipv6 = 3;
+	required bool server = 4;
+}
+

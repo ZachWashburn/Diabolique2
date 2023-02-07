@@ -1,0 +1,13 @@
+﻿  RebuiltWindowsAPI.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(311,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\RebuiltWindowsAPI.cpp(818,27): warning C4101: 'e': unreferenced local variable
+  WindowsImportHide.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(311,1): warning C4010: single-line comment contains line-continuation character
+  DiaboliqueAutoRestart.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(311,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\DiaboliqueAutoRestart\DiaboliqueAutoRestart.cpp(68,9): warning C4615: #pragma warning: unknown user warning type
+  Generating Code...
+  DiaboliqueAutoRestart.vcxproj -> C:\Users\user\source\repos\Diabolique2\Debug\DiaboliqueAutoRestart.exe

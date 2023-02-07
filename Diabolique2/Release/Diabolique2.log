@@ -1,0 +1,35 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Diabolique2.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(312,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(300,1): warning C4244: '+=': conversion from 'smallz4::Length' to 'size_t', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(395,31): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(407,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(415,29): warning C4244: 'argument': conversion from 'smallz4::Length' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(429,37): warning C4244: 'argument': conversion from 'smallz4::Length' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(460,12): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(463,15): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(599,35): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(626,34): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(634,39): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(639,21): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(640,21): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(684,58): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(736,17): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(739,45): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(742,33): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(747,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(760,90): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\smallz4\smallz4.h(780,35): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+C:\Users\user\source\repos\Diabolique2\Diabolique2\Diabolique2.cpp(41,35): warning C4129: '%': unrecognized character escape sequence
+C:\Users\user\source\repos\Diabolique2\Diabolique2\Diabolique2.cpp(46,33): warning C4129: '%': unrecognized character escape sequence
+C:\Users\user\source\repos\PETools\PETools\PETools.h(393,107): warning C4649: attributes are ignored in this context
+C:\Users\user\source\repos\PETools\PETools\PETools.h(806,43): warning C4649: attributes are ignored in this context
+  COMPILED RELEASE BUT WITHOUT LIVE SET, BE CAREFUL THIS IS WHAT YOU WANT!
+C:\Users\user\source\repos\Diabolique2\Diabolique2\Diabolique2.cpp(331,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\SocketPassThrough\CDiaSocketPassthrough.cpp(12): warning C4715: 'CDiaSocketPassthrough::ShutDown': not all control paths return a value
+C:\Users\user\source\repos\Diabolique2\Diabolique2\IDiaboliqueIO.cpp(23): warning C4715: 'IDiaboliqueIO::InitializeModule': not all control paths return a value
+  Finished generating code
+  Diabolique2.vcxproj -> C:\Users\user\source\repos\Diabolique2\Release\Diabolique2.exe

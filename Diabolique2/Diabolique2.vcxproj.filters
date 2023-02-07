@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ExternalLibrary">
+      <UniqueIdentifier>{0b292365-c40b-4581-8581-77052a4a4289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include">
+      <UniqueIdentifier>{b80a9829-fe91-4789-a4d4-0806956e9986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\ProcessController">
+      <UniqueIdentifier>{e0b7133d-e621-4fd9-99d3-79c0bec7cca5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\WindowsImportHide">
+      <UniqueIdentifier>{74b82946-f721-457a-93e9-623371c84c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="proto">
+      <UniqueIdentifier>{f82990ac-34c9-44bb-b9e9-c8bd20e1da06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\SocketPassThrough">
+      <UniqueIdentifier>{9af182c7-f1b0-4470-8ab9-658f5b5027ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PETools">
+      <UniqueIdentifier>{ebd5b6a2-aeb3-4c2f-a3b9-edfa39a695d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\smalllz4">
+      <UniqueIdentifier>{1dbe86f4-acb2-4b9f-a63f-6eb6e2a9f7fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\Fastlz">
+      <UniqueIdentifier>{d13f11bf-b76c-4f57-97ed-8c90c828f472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{73e4fd00-0712-4e4e-8c67-2dd2a8884c68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExternalLibrary\include\AES">
+      <UniqueIdentifier>{4b2a2fb0-c273-4069-baa9-0ee56642134d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Modules">
+      <UniqueIdentifier>{69a8a8ca-17f3-4762-9f60-7bfd4f0f1bda}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Diabolique2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IDiaboliqueIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PREPROCESSOR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseIncludes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\IDataTransfer.h">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\IDiaboliqueModule.h">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\ProcessController\ProcessController.h">
+      <Filter>ExternalLibrary\include\ProcessController</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\ProcessController\CDiabolqiueProcess.h">
+      <Filter>ExternalLibrary\include\ProcessController</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\fnv.h">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\XOR_STR.h">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\WindowsImportHide\RebuiltWindowsAPI.h">
+      <Filter>ExternalLibrary\include\WindowsImportHide</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h">
+      <Filter>ExternalLibrary\include\WindowsImportHide</Filter>
+    </ClInclude>
+    <ClInclude Include="IDiabolique.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DiaboliqueProtocol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IDiaboliqueConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CWinSocksDataTransfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsIncludes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiaboliqueServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiaboliqueServerClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IDiaboliqueServerInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeGenerators\Protos\WrappedCode\proto_defines\diabolique_system_messages.pb.h">
+      <Filter>proto</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeGenerators\Protos\WrappedCode\proto_defines\diabolique_module_messages.pb.h">
+      <Filter>proto</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\SocketPassThrough\CDiaSocketPassthrough.h">
+      <Filter>ExternalLibrary\include\SocketPassThrough</Filter>
+    </ClInclude>
+    <ClInclude Include="CDllServerInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPersistence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCurrentEnviroment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\PETools\PETools\PEBStructs.h">
+      <Filter>PETools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\PETools\PETools\PETools.h">
+      <Filter>PETools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\PETools\PETools\WindowsSysCalls.h">
+      <Filter>PETools</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiaScreenCapture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiaTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CUpdateableImageDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSimpleThreadPool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\smallz4\smallz4.h">
+      <Filter>ExternalLibrary\include\smalllz4</Filter>
+    </ClInclude>
+    <ClInclude Include="miniz.h">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\FastLZ\fastlz.h">
+      <Filter>ExternalLibrary\include\Fastlz</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\AutoRestartProgram.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenMelter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CAsyncDataQueueBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CThreadPauser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExternalLibrary\include\AES\AES.h">
+      <Filter>ExternalLibrary\include\AES</Filter>
+    </ClInclude>
+    <ClInclude Include="aes_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiaFileTransport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CTransferFileTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PasteBin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DropWindowsFreezeFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CWinHTTPDataTransfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPowershellPassthrough.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Diabolique2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IDiaboliqueIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\ProcessController\ProcessController.cpp">
+      <Filter>ExternalLibrary\include\ProcessController</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\WindowsImportHide\RebuiltWindowsAPI.cpp">
+      <Filter>ExternalLibrary\include\WindowsImportHide</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\WindowsImportHide\WindowsImportHide.cpp">
+      <Filter>ExternalLibrary\include\WindowsImportHide</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\ProcessController\CDiabolqiueProcess.cpp">
+      <Filter>ExternalLibrary\include\ProcessController</Filter>
+    </ClCompile>
+    <ClCompile Include="IDiabolique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IDiaboliqueConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CWinSocksDataTransfer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiaboliqueServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiaboliqueServerClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IDiaboliqueServerInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeGenerators\Protos\WrappedCode\proto_defines\diabolique_system_messages.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeGenerators\Protos\WrappedCode\proto_defines\diabolique_module_messages.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\SocketPassThrough\CDiaSocketPassthrough.cpp">
+      <Filter>ExternalLibrary\include\SocketPassThrough</Filter>
+    </ClCompile>
+    <ClCompile Include="CPersistence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCurrentEnviroment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PETools\PETools\Mapping.cpp">
+      <Filter>PETools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PETools\PETools\PETools.cpp">
+      <Filter>PETools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PETools\PETools\WindowsFuncs.cpp">
+      <Filter>PETools</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiaScreenCapture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CUpdateableImageDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSimpleThreadPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\smallz4\smallz4.cpp">
+      <Filter>ExternalLibrary\include\smalllz4</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\smallz4\smallz4cat.c">
+      <Filter>ExternalLibrary\include\smalllz4</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\miniz.c">
+      <Filter>ExternalLibrary\include</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\FastLZ\fastlz.c">
+      <Filter>ExternalLibrary\include\Fastlz</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenMelter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalLibrary\include\AES\AES.cpp">
+      <Filter>ExternalLibrary\include\AES</Filter>
+    </ClCompile>
+    <ClCompile Include="aes_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiaFileTransport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTransferFileTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PasteBin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CWinHTTPDataTransfer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPowershellPassthrough.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Diabolique2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Diabolique2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\icons8-microsoft-excel-2019-48.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icon2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\icons8-microsoft-excel-2019-48.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿  Mapping.cpp
+C:\Users\user\source\repos\PETools\PETools\Mapping.cpp(1,10): fatal error C1083: Cannot open include file: 'PETools.h': No such file or directory
+  PETools.cpp
+C:\Users\user\source\repos\PETools\PETools\PETools.cpp(4,10): fatal error C1083: Cannot open include file: 'PETools.h': No such file or directory
+  WindowsFuncs.cpp
+C:\Users\user\source\repos\PETools\PETools\WindowsFuncs.cpp(1,10): fatal error C1083: Cannot open include file: 'PETools.h': No such file or directory
+  DiaboliquePacker.cpp
+C:\Users\user\source\repos\Diabolique2\DiaboliquePacker\DiaboliquePacker.cpp(8,10): fatal error C1083: Cannot open include file: 'PETools.h': No such file or directory
+  Generating Code...

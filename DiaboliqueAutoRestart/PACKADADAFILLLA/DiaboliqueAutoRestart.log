@@ -1,0 +1,17 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'PACKADADAFILLLA').
+  RebuiltWindowsAPI.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\RebuiltWindowsAPI.cpp(818,27): warning C4101: 'e': unreferenced local variable
+  WindowsImportHide.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+  DiaboliqueAutoRestart.cpp
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(167): warning C4405: 'ret': identifier is reserved word
+C:\Users\user\source\repos\Diabolique2\Diabolique2\ExternalLibrary\include\WindowsImportHide\WindowsImportHide.h(310,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\user\source\repos\Diabolique2\DiaboliqueAutoRestart\DiaboliqueAutoRestart.cpp(68,9): warning C4615: #pragma warning: unknown user warning type
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 371 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DiaboliqueAutoRestart.vcxproj -> C:\Users\user\source\repos\Diabolique2\PACKADADAFILLLA\DiaboliqueAutoRestart.exe
